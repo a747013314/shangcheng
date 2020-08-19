@@ -9,7 +9,7 @@ spring:
 #邮件发件人
 mail:
   fromMail:
-    addr: 747013314@qq.com
+    addr:
 
 
 
